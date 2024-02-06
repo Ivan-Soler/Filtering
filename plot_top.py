@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import Read
-import Maxima
 import re
 import os
 import sys
